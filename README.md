@@ -1,2 +1,2 @@
 # Bmi.java
-Bmi calculator 
+This is a Bmi calculator 
